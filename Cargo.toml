@@ -8,6 +8,7 @@ description = "シンプルな文字、単号、行の出力頻度の計数機�
 readme = "README.md"
 repository = "https://github.com/roidsaa/wordcount"
 keywords = ["example", "frequency", "text"]
+exclude = ["test.txt", "tests/*"]
 
 [badges]
 appveyor = { repository = "roidsaa/wordcount" }
